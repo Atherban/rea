@@ -22,7 +22,7 @@ export default function Hero() {
               href="/contact"
               className="inline-flex items-center justify-center rounded-md bg-accent px-6 py-3 text-sm font-semibold text-white hover:bg-accent-hover transition-colors"
             >
-              Get a Quote
+              Discuss Project
             </Link>
 
             <Link

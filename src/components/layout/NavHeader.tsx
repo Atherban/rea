@@ -15,7 +15,7 @@ export default function NavHeader() {
         
         {/* Brand */}
         <Link href="/" className="text-lg font-semibold text-foreground">
-          Rajeshwari Engineering & Automation
+          REA
         </Link>
 
         {/* Navigation */}

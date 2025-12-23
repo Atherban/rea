@@ -6,7 +6,7 @@ export default function WhyChooseUs() {
           {/* Section Header */}
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold text-foreground">
-              Why Choose Rajeshwari Engineering & Automation
+              Why Choose <br/>Rajeshwari Engineering & Automation
             </h2>
             <p className="mt-4 text-muted">
               We focus on engineering precision, compliance, and long-term system
